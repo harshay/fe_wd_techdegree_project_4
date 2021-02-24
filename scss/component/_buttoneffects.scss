@@ -1,0 +1,38 @@
+
+/* ===================================================== */
+/*              Button Hover Effect                      */
+/* ===================================================== */
+
+
+.default:hover { 
+
+    background-color: lighten(#51ddfc,15%);   
+  
+  }
+  
+  
+  .success:hover { 
+  
+    background-color: lighten(#63cc82,15%);   
+  
+  } 
+  
+  
+  .error:hover { 
+  
+    background-color: lighten(#e4757a,15%);   
+  
+  }
+  
+  .warning:hover { 
+  
+    background-color: lighten(#fd7856,15%);   
+  
+  }
+  
+  .info:hover { 
+  
+    background-color: lighten(#927bc1,15%);   
+  
+  }
+  

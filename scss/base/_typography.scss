@@ -10,3 +10,34 @@ $typomaincol: #58e1c1;
 
 //maximum container width : for first break point
 $maxcntwid: 1400px;
+
+
+
+/* ============================================= */
+/*              Typography                       */
+/* ============================================= */
+
+.headline-primary {
+    color: $colorl1h;
+    margin-left: 10px;
+  }
+  
+  .headline-secondary {
+    font-weight: $linkfweight;
+    color: $maincolor;
+  }
+  
+  .link {
+    color: $colorl3;
+    font-weight: 700;
+  }
+  
+  .blockquote {
+    font-size: 1.5em;
+    font-weight: $linkfweight;
+    font-style: italic;
+    margin-left: 20px;
+    padding-left: 20px;
+    border-left: 8px solid $colorl1h;
+    border-radius: 5px;
+  }
